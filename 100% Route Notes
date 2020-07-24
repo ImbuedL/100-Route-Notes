@@ -30,7 +30,7 @@ Cycle 1:
 Cycle 2:
 	oca, bomb, deku
 NCT Bombers
-TF bomb drop + hess clip					                                                                                                	4b
+TF bomb drop + hess clip					                4b
 Heap manip w/ isot + superslide				10r	3b	(https://www.youtube.com/watch?v=HZ28iozAlgg)
 wall + timestop									1b
 
@@ -87,9 +87,9 @@ Postman HP, roll to rosa
 	light, bomb, stick
 actionswap hidden owl w/ rosa text
 wct bomber
-gfm																29b
-	oca, goron, deku
-deku 1										60r
+gfm										9b
+	oca, goron, deku	
+deku 1									60r
 kafei's mask
 	oca, goron, kafei
 set meeting
@@ -102,7 +102,7 @@ sell chateau								200r
 deposit 200r (Giant's Wallet)				0r / 200 bank
 sell chateau (puts bottle over deed)
 curiosity dupes	(3 dupes per trip)	8x		0r / 4200 bank
-dupe 2x										400r
+dupe 2x									400r
 dupe w/ pause								500r
 	goron[deku], goron, oca
 deposit 390r								110r / 4590 bank
@@ -111,21 +111,21 @@ kamaro
 	goron[deku], chateau, oca *on SoH buffer + drink chateau during cutscene
 dodongo HP + 100r							200r				23b (bomb count wrong, but doesn't matter)
 	goron[], bomb, chu *on dodongo ae buffer (use goron on dodongos)
-Dodongo AE														21b	24c
+Dodongo AE									21b	24c
 get single green rupee on way to grotto		201r
 bean + get caught
 	goron[], bomb, deku
-isg superslide													20b
-sonata															19b
+isg superslide									20b
+sonata										19b
 	goron[], oca, deku[kamaro]
 Song of Soaring
 	goron[], princess[deed], deku[]
 deposit princess
-pf warp (https://www.youtube.com/watch?v=oc-5-eop7V0)			14b
+pf warp (https://www.youtube.com/watch?v=oc-5-eop7V0)				14b
 	goron[], bomb, deku[]
-bomb timestop + deku bubble beehive								13b
+bomb timestop + deku bubble beehive						13b
 hookshot
-sewers superswim (https://www.youtube.com/watch?v=nTtXQCJDLLc)	12b
+sewers superswim (https://www.youtube.com/watch?v=nTtXQCJDLLc)			12b
 reverse pf
 	goron[], keg, oca + map point
 
@@ -133,9 +133,9 @@ SoS Mountain Village
 blow up boulder
 lullaby
 	goron[], bomb, deku[kamaro]
-biggest bomb bag							1r				40b
+biggest bomb bag							1r	40b
 flower clip for HP
-lens w/ long jump												39b
+lens w/ long jump								39b
 	goron[], bomb, oca
 
 SoS Great Bay
@@ -143,56 +143,56 @@ goron void mikau walking cs skip (https://www.youtube.com/watch?v=jJKC7p2myKk)
 zora mask w/ day reset after SoH (https://www.youtube.com/watch?v=Na2kAfqeTvU; if fail try at goron mask)
 	hook, bomb, oca *on buffer
 enter oceanside
-oceanside HP													37b
+oceanside HP									37b
 	lens, bomb, oca + map point
 
 SoS Mountain Village
-goron mask														36b
-drop bomb														35b
+goron mask									36b
+drop bomb									35b
 	goron, bottle, keg
-pull grave + take damage												4.5H
+pull grave + take damage									4.5H
 dupe keg + catch hsw
 	goron, oca, deku
-deku movement to gero w/ fall damage									3.5H
+deku movement to gero w/ fall damage								3.5H
 gero
 	*map point
 
 SoS Woodfall
 	goron, hook, light[deed]
-hookshot torch															3.25H
-switch goron void cs skip 												2.25H
-hookshot torch															2.0H
+hookshot torch											3.25H
+switch goron void cs skip 									2.25H
+hookshot torch											2.0H
 bow
 hookshot to snappers
-snappers for 150r 												32b		0.5H (https://clips.twitch.tv/ThankfulMoistVampireSaltBae)
-map + fast dw								151r				31b
+snappers for 150r 								32b		0.5H (https://clips.twitch.tv/ThankfulMoistVampireSaltBae)
+map + fast dw								151r	31b
 	goron, oca, light[] + map point
 
 SoS Snowhead
 play lullaby
 enter snowhead temple
-	gfm, bomb, light[]											30b
+	gfm, bomb, light[]							30b
 first 3 fairies, map, drop bomb for weirdshot (https://www.youtube.com/watch?v=dNiL1Et_Xj4)
 	hook, goron, light[]
 fire arrow
 	bunny, fire, light[]
 push block
 	hook, fire, light[]
-wolfos 50r + compass						201r
+wolfos 50r + compass							201r
 	hook, bomb, light[]
 hookshot torch
 	gfm, bomb, light[]
-crate fairy + wall												29b
+crate fairy + wall								29b
 	hook, bomb, light[]	
-small key + 5r								206r				28b
+small key + 5r								206r	28b
 	hook, gfm, light[]
-long jump														27b
+long jump									27b
 	fire, gfm, light[]
-eeno 50r									256r			(https://www.youtube.com/watch?v=ditCCEoUliM)
+eeno 50r								256r			(https://www.youtube.com/watch?v=ditCCEoUliM)
 	deku, goron, light[]
 lava fairy + void
-	bomb, goron, light[]										26b
-bk skip															25b
+	bomb, goron, light[]							26b
+bk skip										25b
 	fire, goron, light[]
 melt goht
 	light[], goron, bow (but equip bow over light, for some reason it works this way)
@@ -213,12 +213,12 @@ aliens w/ sun's
 sun's to day 2 + bomb timestop for SoDT storage
 	light[], goron, bomb *on buffer
 Cremia 1 cs skip
-dog HP										286r
+dog HP									286r
 	light[], oca, bomb + map point
 
 SoS Stone Tower
-Stone Tower Owl + arrow/bomb drops								30b
-bomb timestop													29b
+Stone Tower Owl + arrow/bomb drops						30b
+bomb timestop									29b
 	light[], zora, bomb							
 compass + underwater sun, map + gainer sun block				23b											
 beamos fairy + 20r							306r
@@ -232,18 +232,18 @@ garo w/ razor + damage, eyegore						21b
 flip STT, wizrobe w/ mega							15b
 	oca, bomb, chu						(hook, bomb, oca    if you buffer the chu hover for chest)
 soar to entrance
-damage isg											14b
+damage isg									14b
 	hook, bomb, chu
-upside down chest										20c
+upside down chest									20c
 	hook, bomb, gfm
-updraft room										7b
-bk skip												6b
+updraft room									7b
+bk skip										6b
 	goron, bomb, fire
 enter twinmold	
 blue twinmold
 	goron, bomb, light
 
-Great Fairy Sword									5b
+Great Fairy Sword								5b
 Ikana Tingle Maps							276r
 Ikana Owl + Bomb Drop								10b
 	goron, deku, potion[deed]
@@ -256,8 +256,8 @@ Woodfall Chest HP
 Woodfall Temple
 hookshot torch
 	gfs, bomb, chu
-hover to gekko										9b	17c
-gekko												8b
+hover to gekko									9b	17c
+gekko										8b
 	gfs, deku, gero
 frog + Boss key
 beehive fairy + small key
@@ -270,16 +270,16 @@ shoot fairies
 	gfs, gfm, hook
 odolwa, remains								281r
 	goron, bomb, deku	
-Woodfall Owl with bomb recoil						12b
+Woodfall Owl with bomb recoil							12b
 enter fountain
 	goron, bomb, chu
-great spin											11b
-FFAE												7b	8c
+great spin									11b
+FFAE										7b	8c
 double magic
 Snowhead Owl
-scarecrow HP										6b	4c
-hover to path										5b	2c
-Mountain Village owl + bomb drop					10b
+scarecrow HP									6b	4c
+hover to path									5b	2c
+Mountain Village owl + bomb drop						10b
 	goron, oca, gold dust
 deposit razor
 Mountain Gossips
@@ -290,7 +290,7 @@ Biobaba HP
 peahat HP
 swamp gossips
 Milk Road owl									
-Garo Race									271r
+Garo Race								271r
 cremia 2 w/ sun's
 Romani's Mask
 canyon gossips
@@ -330,33 +330,33 @@ JS fence to enter deku 2
 	goron, deku, oca
 Deku 2 (4 human oca pulls -> 5 mask transitions (4 seems inconsistent))
 Collect Rupees, sun's to Day 3 + start game for HP
-								221r
+									221r
 SoS Ikana
 sakon's hideout clip
 	gfs, bomb, bugs
-bugs timestop cs skip, bomb hover					10b
+bugs timestop cs skip, bomb hover						10b
 	gfs, mail, chu
-conveyor hover											33c
+conveyor hover										33c
 backflip switch for cs skip, mash mail + pause for other cs skip, hit other switch
 sign isg
-Ikana Scrub HP		                                    28c
+Ikana Scrub HP		                                    				28c
     goron, lens, potion
 Stone Mask
 enter graveyard
     goron, bomb, gfs		
-Dampe Grave Clip                                    9b
+Dampe Grave Clip                                    				9b
 	light, bomb, stick			 #### SKIP THIS PAUSE IF DOING GFS ON BIG POE; GET MV 20r IF 2ND PLACE DOG AND STILL SHORT							
-Dampe Bottle + 100r                       	321r                        
-Superslide to exit                                  8b                 
+Dampe Bottle + 100r                       				321r                        
+Superslide to exit                                  				8b                 
     hook, bomb, stick
 captain's hat
-Superslide to grave, light torches                  7b
+Superslide to grave, light torches                  				7b
 	hook, bomb, gfs
-flat cs skip                                        5b
+flat cs skip                                        				5b
     goron, bomb, gfs *on buffer
 Song of Storms
-long jump                                   347r    4b
-knuckle HP                                          3b
+long jump                                   				347r    4b
+knuckle HP                                        				3b
     goron, zora, oca
 
 SoS Swamp
@@ -392,7 +392,7 @@ turnkey skip
 pot fariy
 	hook, gfs, chu
 hookshot to map chest + chest isg
-hover, drop chu											20c
+hover, drop chu										20c
 	hook, bomb, gfm
 waterwheel fairies
 	zora, ice, gfs
@@ -409,7 +409,7 @@ gyorg
 												
 high ledge grab
 	zora, chu, hook (zora, bomb, hook if you don't have a spare chu)								
-drop chu (or bomb)										19c
+drop chu (or bomb)									19c
 	zora, goron, hook
 Beavers
 Like like HP								429r
@@ -418,7 +418,7 @@ enter PR
 PR HP + catch egg + void
 void to shore + catch fish, roll + take off zora
 	zora, bomb, hook
-cliff HP											12b
+cliff HP									12b
 	zora, gfs, ice
 torch minigame								409r
 Great Bay owl
