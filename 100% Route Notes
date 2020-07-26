@@ -42,6 +42,7 @@ Chest SRM:
 BDDF initial angle (tap down):
 
 *Deku Princess: 3 ESS left for A8C7 (most of left hand gone) --> C000 for 1739
+*Great Fairy Sword: 2 ESS left for AFCF (can see all fingers of left hand still) --> C000 for 1031
 
 
 7DDF initial angle (tap left):
@@ -57,6 +58,7 @@ FDDF initial angle (tap right):
 
 *0x4C: 7 ESS right for CA7 (feet basically touch, some gap between legs) --> C000 for 4CA7 (tap up)
 *Adult Wallet: 5 ESS right for 1AB7 (shield disappears on left side of Link) --> C000 for 5AB7 (tap up or right)
+*Woodfall Boss Key: 2 ESS left (small space between hilt and link's head) --> C000 for 7411 (tap left)
 
 
 C000 initial angle (front of chest/long chest cs):
