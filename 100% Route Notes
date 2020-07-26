@@ -20,6 +20,7 @@ Some things that need to be timed/tested:
 Other Notes:
 - ISTT Wizrobe Chest CS Skip has a 3 frame window
 - gyorg cs skip visual cue if 2nd frame weirdshot (move down until bottom of A button on wall, move left slightly)
+- Alternate Bunny Hood setup: Hold Right to Walk, 1 Frame of Down on stick, 1 ESS Up/Right for --> C000
 
 
 Cycle 1:
@@ -77,7 +78,7 @@ Short Chest (331E) and Chus and Bunny Hood:
 *Chateau: short chest --> 2 ESS right for 250E (brown on left side of shield gone) --> backflip + dry roll into 0000 side of chest
 *10 Chus
 *Goron Mask: short chest --> sidehop to 0000, walk up to collide (and avoid chest on sidehop back), sidehop back (cancel speed)
-*Bunny Hood: Hold Right to Walk, 1 Frame of Down on stick, 1 ESS Up/Right for --> C000
+*Bunny Hood: BDDF (tap down) --> 8 ESS left (space between shield and link, no sheath visible), c-up Left 1 frame, target --> C000 for 3935
 		oca, goron, deku *on buffer
 
 
